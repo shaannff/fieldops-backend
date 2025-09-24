@@ -6,5 +6,6 @@ export const MESSAGES = {
     LOGIN_SUCCESS: "Login successful",
     LOGIN_FAILED: "Invalid email or password",
     SERVER_ERROR: "Internal server error",
-    FIELD_IS_REQUIRED :'Field is required'
+    FIELD_IS_REQUIRED :'Field is required',
+    UNKNOWN_ERROR: "An unknown error occurred",
 };
